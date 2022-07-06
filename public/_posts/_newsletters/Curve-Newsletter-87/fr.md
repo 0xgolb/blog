@@ -1,9 +1,9 @@
 ---
 title:  "Yearn Finance Newsletter #41"
 image:
-  src: ./cover.jpeg
-  width: 576
-  height: 288
+  src: ./stickers.png
+  width: 2000
+  height: 1125
 author: Yearn
 date: '2021-07-20'
 translator: Cryptouf
